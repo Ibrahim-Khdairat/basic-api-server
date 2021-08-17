@@ -50,16 +50,16 @@ describe('Middle Ware', () => {
     });
 
 
-    it('Should check the food response it work Successfully', async () => {
-        // arrange
-        let status = 200;
-        let param = '/food';
-        // act
-        const response = await request.get(param);
-        // assert
-        expect(response.status).toBe(status);
-        expect(typeof response.body).toEqual('object');
-    });
+    // it('Should check the food response it work Successfully', async () => {
+    //     // arrange
+    //     let status = 200;
+    //     let param = '/food';
+    //     // act
+    //     const response = await request.get(param);
+    //     // assert
+    //     expect(response.status).toBe(status);
+    //     expect(typeof response.body).toEqual('object');
+    // });
 
     // it('Should check the add food response it work Successfully', async () => {
     //     // arrange
