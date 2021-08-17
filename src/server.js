@@ -22,7 +22,7 @@ app.get('/bad', (req, res, next) => {
     next('error from bad end point');
 });
 
-server.get('/status', (req, res) => {
+app.get('/status', (req, res) => {
     let statusOutput = {
         "domain": "ibrahim-basic-express-server.herokuapp.com",
         "status": "running",
