@@ -1,11 +1,3 @@
-
-
-https://github.com/Ibrahim-Khdairat/basic-api-server/pull/1
-
-https://github.com/Ibrahim-Khdairat/basic-api-server/actions
-
-
-
 # Lab 03 -  Basic-Api-Server
 
 ##### Author : Ibrahim Khdairat 
