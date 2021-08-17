@@ -29,7 +29,6 @@ Returns Object
 * ##### 2 -  `food`  
 https://ibrahim-basic-api-server.herokuapp.com/food
 
-> *You should enter your name in the search query or you'll get an 404 Not Found Error*
 
 Returns Object
 
@@ -41,7 +40,6 @@ Returns Object
 * ##### 3 -  `clothes`  
 https://ibrahim-basic-api-server.herokuapp.com/clothes
 
-> *You should enter your name in the search query or you'll get an 404 Not Found Error*
 
 Returns Object
 
