@@ -89,16 +89,16 @@ describe('Middle Ware', () => {
     //     expect(typeof response.body).toEqual('object');
     // });
 
-    it('Should check the clothes response it work Successfully', async () => {
-        // arrange
-        let status = 200;
-        let param = '/clothes';
-        // act
-        const response = await request.get(param);
-        // assert
-        expect(response.status).toBe(status);
-        expect(typeof response.body).toEqual('object');
-    });
+    // it('Should check the clothes response it work Successfully', async () => {
+    //     // arrange
+    //     let status = 200;
+    //     let param = '/clothes';
+    //     // act
+    //     const response = await request.get(param);
+    //     // assert
+    //     expect(response.status).toBe(status);
+    //     expect(typeof response.body).toEqual('object');
+    // });
 
     // it('Should check the add clothes response it work Successfully', async () => {
     //     // arrange
